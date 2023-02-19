@@ -1,6 +1,6 @@
 # FaceAccess Employee
 
-Aplicación del empleado.
+Esta es la implementación de la aplicación móvil del empleado, correspondiente al sistema **FaceAccess**. 
 
 [![Watch the video](https://img.youtube.com/vi/f7eQWmuP7Lg/0.jpg)](https://youtu.be/f7eQWmuP7Lg)
 
