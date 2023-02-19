@@ -12,7 +12,7 @@ La premisa de esta aplicación es que el empleado puede controlar en todo moment
 
 Esta aplicación se conecta con el servidor central mediante MQTT, y se pone a la escucha de cualquier novedad respecto a los accesos.
 
-La siguiente imagen representa la comunicación entre esta aplicación y el servidor.
+La siguiente imagen representa la **comunicación entre esta aplicación y el servidor**.
 
 <figure>
   <img
